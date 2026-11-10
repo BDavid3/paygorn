@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Paygorn is HARAM");
+            Console.WriteLine("Paygorn is NOT HARAM");
         }
     }
 }
